@@ -1,7 +1,7 @@
 # spectre-detectors
 A list of papers on detecting Spectre vulnerabilities.
 
-**BINSEC/HAUNTED** NDSS'21 [[Paper]](https://binsec.github.io/assets/publications/papers/2021-ndss.pdf) [[Code]](https://github.com/binsec/haunted)
+**Binsec/Haunted** NDSS'21 [[Paper]](https://binsec.github.io/assets/publications/papers/2021-ndss.pdf) [[Code]](https://github.com/binsec/haunted)
 
 **SpecTaint** NDSS'21 [[Paper]](https://www.cs.ucr.edu/~heng/pubs/SpecTaint.pdf) [[Code]](https://github.com/bitsecurerlab/SpecTaint)
 
