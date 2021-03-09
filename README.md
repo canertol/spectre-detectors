@@ -1,6 +1,8 @@
 # spectre-detectors
 A list of papers on detecting Spectre vulnerabilities.
 
+**FastSpec** Euro S&P'21 [[Paper]](https://arxiv.org/pdf/2006.14147.pdf)[[Code]](https://github.com/vernamlab/FastSpec) 
+
 **Binsec/Haunted** NDSS'21 [[Paper]](https://binsec.github.io/assets/publications/papers/2021-ndss.pdf) [[Code]](https://github.com/binsec/haunted)
 
 **SpecTaint** NDSS'21 [[Paper]](https://www.cs.ucr.edu/~heng/pubs/SpecTaint.pdf) [[Code]](https://github.com/bitsecurerlab/SpecTaint)
@@ -8,8 +10,6 @@ A list of papers on detecting Spectre vulnerabilities.
 **SpecFuzz** Usenix'20 [[Paper]](https://www.usenix.org/system/files/sec20-oleksenko.pdf) [[Code]](https://github.com/OleksiiOleksenko/SpecFuzz)
 
 **Pitchfork** PLDI'20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3385412.3385970) [[Code]](https://github.com/PLSysSec/pitchfork-angr) 
-
-**FastSpec** [[Paper]](https://arxiv.org/pdf/2006.14147.pdf)[[Code]](https://github.com/vernamlab/FastSpec) 
 
 **SpecuSym** ICSE'20 [[Paper]](https://arxiv.org/pdf/1911.00507.pdf) 
 
