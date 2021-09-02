@@ -1,6 +1,8 @@
 # spectre-detectors
 A list of papers on detecting Spectre vulnerabilities.
 
+**KAIBYO** [[Paper]](https://arxiv.org/pdf/2108.13818.pdf) [[Code]](https://github.com/unibw-patch/Kaibyo)
+
 **FastSpec** Euro S&P'21 [[Paper]](https://arxiv.org/pdf/2006.14147.pdf)[[Code]](https://github.com/vernamlab/FastSpec) 
 
 **Binsec/Haunted** NDSS'21 [[Paper]](https://binsec.github.io/assets/publications/papers/2021-ndss.pdf) [[Code]](https://github.com/binsec/haunted)
