@@ -1,5 +1,5 @@
 # spectre-detectors
-A list of papers on detecting Spectre vulnerabilities.
+A list of papers/tools on finding Spectre gadgets.
 
 | Title | Venue | Year | Method | Paper | Code |
 |---|---|---|---|---|---|
