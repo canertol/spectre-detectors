@@ -4,7 +4,7 @@ A list of papers/tools on finding Spectre gadgets.
 | Title | Venue | Year | Method | Paper | Code |
 |---|---|---|---|---|---|
 | Ultimate SLH | Usenix | '23 |  | [Link](https://www.usenix.org/system/files/sec23fall-prepub-278-zhang-zhiyuan.pdf) | [Link](https://github.com/0xADE1A1DE/USLH/tree/master) |
-| Google-CodeQL tool | - | - |  | - | [Link](https://github.com/google/security-research/tree/master/pocs/cpus/spectre-gadgets) |
+| Google-CodeQL tool | - | '23 |  | - | [Link](https://github.com/google/security-research/tree/master/pocs/cpus/spectre-gadgets) |
 | Hide and Seek with Spectres | S&P | '23 |  | [Link](https://arxiv.org/pdf/2301.07642.pdf) | [Link](https://github.com/microsoft/sca-fuzzer) |
 | KASPER | NDSS | '22 |  | [Link](https://www.ndss-symposium.org/wp-content/uploads/2022-221-paper.pdf) | [Link](https://github.com/vusec/kasper) |
 | Revizor | ASPLOS | '22 |  | [Link](https://arxiv.org/pdf/2105.06872.pdf) | [Link](https://github.com/microsoft/sca-fuzzer) |
