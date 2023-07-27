@@ -7,7 +7,7 @@ A list of papers on detecting Spectre vulnerabilities.
 
 **Revizor** ASPLOS'22 [[Paper]](https://arxiv.org/pdf/2105.06872.pdf)[[Code]](https://github.com/microsoft/sca-fuzzer)
 
-**KAIBYO** [[Paper]](https://arxiv.org/pdf/2108.13818.pdf) [[Code]](https://github.com/unibw-patch/Kaibyo)
+**KAIBYO** S&P'22 [[Paper]](https://arxiv.org/pdf/2108.13818.pdf) [[Code]](https://github.com/unibw-patch/Kaibyo)
 
 **FastSpec** Euro S&P'21 [[Paper]](https://arxiv.org/pdf/2006.14147.pdf)[[Code]](https://github.com/vernamlab/FastSpec) 
 
