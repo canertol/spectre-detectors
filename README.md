@@ -3,7 +3,11 @@ A list of papers on detecting Spectre vulnerabilities.
 
 **Ultimate SLH** Usenix'23 [[Paper]](https://www.usenix.org/system/files/sec23fall-prepub-278-zhang-zhiyuan.pdf)[[Code]](https://github.com/0xADE1A1DE/USLH/tree/master)
 
+**Google-CodeQL tool** [[Code]](https://github.com/google/security-research/tree/master/pocs/cpus/spectre-gadgets)
+
 **Hide and Seek with Spectres** S&P'23 [[Paper]](https://arxiv.org/pdf/2301.07642.pdf)[[Code]](https://github.com/microsoft/sca-fuzzer)
+
+**KASPER** NDSS'22 [[Paper]](https://www.ndss-symposium.org/wp-content/uploads/2022-221-paper.pdf)[[Code]](https://github.com/vusec/kasper)
 
 **Revizor** ASPLOS'22 [[Paper]](https://arxiv.org/pdf/2105.06872.pdf)[[Code]](https://github.com/microsoft/sca-fuzzer)
 
